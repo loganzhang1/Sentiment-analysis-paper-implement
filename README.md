@@ -9,3 +9,5 @@
 4.Aspect Level Sentiment Classification with Deep Memory Network.py
 
 5.absa_gated_convolutional_networks_ATSC.py for Aspect Based Sentiment Analysis with Gated Convolution Networks  
+
+6.ABSA_pair_Utilizing_BERT_Auxiliary.py for Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence
