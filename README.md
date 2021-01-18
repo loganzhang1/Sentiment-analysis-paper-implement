@@ -11,3 +11,5 @@
 5.absa_gated_convolutional_networks_ATSC.py for Aspect Based Sentiment Analysis with Gated Convolution Networks  
 
 6.ABSA_pair_Utilizing_BERT_Auxiliary.py for Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence
+
+7.Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks for paper "Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks"
